@@ -29,12 +29,12 @@ This project requires a standard Python 3 environment.
 ### Running the Application
 1.  **Clone the Repository:**
     ```bash
-    git clone [YOUR_REPOSITORY_LINK]
-    cd [YOUR_REPOSITORY_NAME]
+    git clone https://github.com/kashyap10101/student_attendance_manager
+    cd Attendance_Manager
     ```
 2.  **Execute the Script:**
     ```bash
-    python your_main_script_name.py
+    python attendance_manager.py
     ```
     *Note: The script will automatically create the `attendance.json` file in the same directory upon its first execution if it doesn't already exist.*
 
