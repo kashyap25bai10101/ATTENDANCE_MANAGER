@@ -57,4 +57,7 @@ To confirm the application is fully functional, perform the following validation
     * Try adding a student whose name is already present (e.g., "Priya"). The system must show a warning message ("Already got that one") and prevent duplication.
 <img width="1333" height="697" alt="image" src="https://github.com/user-attachments/assets/7c4ce019-3a9c-4fe6-b3f4-2e7ec10994f5" />
 <img width="1221" height="617" alt="image" src="https://github.com/user-attachments/assets/6cee493f-2325-4d5a-bc29-4a8d2a49099d" />
+<img width="923" height="610" alt="image" src="https://github.com/user-attachments/assets/88fa74c6-4940-4e12-a84d-bdc3d3242c76" />
+<img width="923" height="610" alt="image" src="https://github.com/user-attachments/assets/58d1588f-81c3-4a90-aeab-c1f324746683" />
+
 
